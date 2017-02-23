@@ -1,0 +1,17 @@
+<table class="table table-bordered">
+<tr>
+  <th>Employee Id</th>
+  <th>Employee Name</th>
+  <th>Date Of Joining</th>
+  <th>Designation</th>
+  <th>Band</th>
+</tr>
+<tr *ngFor="let c of employee ">
+  <td> {{c.Number}} </td>
+  <td> {{c.Name}} </td>
+  <td> {{c.DateOfJoin|date:'dd-MM-yyyy'}} </td>
+  <td> {{c.DesignationName}} </td>
+  <td> {{c.BandName}} </td>
+</tr>
+</table>
+

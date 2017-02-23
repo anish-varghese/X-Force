@@ -1,0 +1,193 @@
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.csprojResolveAssemblyReference.cache
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.rsp
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.exe
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.rsp
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.AppContext.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.rsp
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Autofac.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Autofac.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\NLog.config
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\NLog.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\DotNetZip.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\MimeKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\MailKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\EntityFramework.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\BouncyCastle.Crypto.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Z.EntityFramework.Plus.EF6.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\NLog.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\DotNetZip.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\MimeKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\MailKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\EntityFramework.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Antlr3.Runtime.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Helpers.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Mvc.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Optimization.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Razor.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.Razor.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\WebGrease.dll
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\Antlr3.Runtime.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Helpers.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Mvc.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Optimization.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.Razor.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Marina API Framework\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.Razor.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.exe.config
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\csc.rsp
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.exe
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\csi.rsp
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\System.AppContext.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.exe.config
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\vbc.rsp
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\NLog.config
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll.config
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Web.Api.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Antlr3.Runtime.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Autofac.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\NLog.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Helpers.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Mvc.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Optimization.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Razor.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.Deployment.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.Razor.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\WebGrease.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\DotNetZip.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\MimeKit.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\MailKit.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\EntityFramework.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\BouncyCastle.Crypto.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Z.EntityFramework.Plus.EF6.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.Contracts.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Common.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Core.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Dto.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.IocConfig.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Antlr3.Runtime.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Autofac.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Autofac.Integration.WebApi.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\EntityFramework.SqlServer.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Newtonsoft.Json.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\NLog.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Helpers.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Mvc.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Optimization.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Razor.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.Deployment.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.WebPages.Razor.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Net.Http.Formatting.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.WebHost.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\DotNetZip.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\MimeKit.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\MailKit.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Business.Services.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Services.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\Experion.Marina.Data.Contracts.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\EntityFramework.xml
+D:\x-force\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.csprojResolveAssemblyReference.cache
+D:\x-force\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\obj\Debug\Experion.Marina.Web.Api.pdb
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Cors.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.Cors.dll
+D:\x-force\src\src\Experion.Marina.Web.Api\bin\System.Web.Http.Cors.xml

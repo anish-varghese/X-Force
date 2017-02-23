@@ -1,0 +1,40 @@
+<script type="text/javascript">
+  $(function () { // will trigger when the document is ready
+    $('.datepicker1').datepicker(); //Initialise any date pickers
+  });
+</script>
+
+<div class="col-md-5">
+  <h1> Add New Employee </h1>
+  <form [formGroup]="myForm" (ngSubmit)="onAdd()">
+    <div class="form-group">
+      <label for="EmployeeNumber">Employee Number :</label>
+      <input type="number" class="form-control" formControlName="Number" id="EmployeeNumber" required>
+    </div>
+    <div class="form-group">
+      <label for="EmployeeName">Employee Name :</label>
+      <input type="text" class="form-control" formControlName="Name" id="EmployeeName" required>
+    </div>
+    <div class="form-group">
+      <label for="dateOfJoining">Date Of Joining :</label>
+      <input type="date" class="form-control datepicker1" formControlName="DateOfJoin" id="dateOfJoining" required>
+    </div>
+    <div class="form-group">
+      <label for="designation">Designation :</label>
+      <select class="custom-select form-control" formControlName="DesignationId">
+   <option *ngFor="let i of designations" value={{i.Id}} > {{i.Name}} </option>
+    </select>
+    </div>
+    <div class="form-group">
+      <label for="designation">Band :</label>
+      <select class="custom-select form-control" formControlName="BandId">
+   <option *ngFor="let i of bands" value={{i.Id}} > {{i.Name}} </option>
+   
+    </select>
+    </div>
+    <div class="form-group">
+      <button type="submit" class="btn btn-primary">Add</button>
+      <button type="reset" class="btn btn-danger">Reset</button>
+    </div>
+  </form>
+</div>

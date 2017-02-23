@@ -1,0 +1,28 @@
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\Experion.Marina.Dto.dll
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\Experion.Marina.Dto.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Dto\obj\Debug\Experion.Marina.Dto.dll
+D:\Marina API Framework\src\src\Experion.Marina.Dto\obj\Debug\Experion.Marina.Dto.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\Experion.Marina.Core.dll
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\Experion.Marina.Core.pdb
+D:\Marina API Framework\src\src\Experion.Marina.Dto\obj\Debug\Experion.Marina.Dto.csprojResolveAssemblyReference.cache
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\Newtonsoft.Json.xml
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\MimeKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\MailKit.dll
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\BouncyCastle.Crypto.dll
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\MimeKit.xml
+D:\Marina API Framework\src\src\Experion.Marina.Dto\bin\Debug\MailKit.xml
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\Experion.Marina.Dto.dll
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\Experion.Marina.Dto.pdb
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\Experion.Marina.Core.dll
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\MimeKit.dll
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\MailKit.dll
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\BouncyCastle.Crypto.dll
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\Experion.Marina.Core.pdb
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\Newtonsoft.Json.xml
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\MimeKit.xml
+D:\x-force\src\src\Experion.Marina.Dto\bin\Debug\MailKit.xml
+D:\x-force\src\src\Experion.Marina.Dto\obj\Debug\Experion.Marina.Dto.csprojResolveAssemblyReference.cache
+D:\x-force\src\src\Experion.Marina.Dto\obj\Debug\Experion.Marina.Dto.dll
+D:\x-force\src\src\Experion.Marina.Dto\obj\Debug\Experion.Marina.Dto.pdb

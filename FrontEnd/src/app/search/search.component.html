@@ -1,0 +1,72 @@
+
+<div class="col-md-5">
+<h1> Search </h1>
+<form [formGroup]="myForm" >
+  <div class="form-group">
+      <label for="SearchBy">Search by :</label>
+    <select (change)="onChangeSearch($event.target.value)" formControlName="SearchBy" class="custom-select form-control">
+    <option selected>--Select--</option>
+    <option *ngFor="let i of searchBy" value={{i.Id}}> {{i.Name}} </option>
+</select>
+  </div>
+  <div class="form-group">
+    <label for="Filter">Filter Operator</label>
+    <select (change)="onChangeFilter($event.target.value)" formControlName="FilterBy" class="custom-select form-control">
+            <option >select</option>
+           <option *ngFor="let j of filterBy" value={{j.Id}}>{{j.Operator}}</option>
+          </select>
+  </div>
+  <div class="form-group" *ngIf="queryFlag">
+    <label for="query">Search Query :</label>
+    <div class="form-group" *ngIf="toDateFlag" >
+    <label for="query">From Date :</label>
+    </div>    
+    <input type="{{type}}" class="form-control" formControlName="Query" id="query" required>
+  </div>
+
+  <div class="form-group" *ngIf="designationFlag">
+    <label for="designation">Designation :</label>  
+   <select class="custom-select form-control" formControlName="Query">
+   <option *ngFor="let i of designations" value={{i.Id}} > {{i.Name}} </option>
+    </select>
+   </div>
+
+   <div class="form-group" *ngIf="bandFlag">
+    <label for="designation">Band :</label>  
+   <select class="custom-select form-control" formControlName="Query">
+   <option *ngFor="let i of bands" value={{i.Id}} > {{i.Name}} </option>
+   
+    </select>
+   </div>
+    
+<div class="form-group" *ngIf="toDateFlag" >
+    <label for="query">To Date :</label>
+    <input type="date" class="form-control" formControlName="toDate" id="toDate" required>
+</div>
+
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary"(click)="searchData()">Search</button>
+    <button type="reset" class="btn btn-danger" (click)="resetData()" >Reset</button>
+  </div>
+</form>
+</div>
+
+<div class="col-md-7">
+<table class="table table-bordered">
+<tr>
+  <th>Employee Id</th>
+  <th>Employee Name</th>
+  <th>Date Of Joining</th>
+  <th>Designation</th>
+  <th>Band</th>
+</tr>
+
+<tr *ngFor="let c of employee">
+  <td> {{c.Number}} </td>
+  <td> {{c.Name}} </td>
+  <td> {{c.DateOfJoin|date:'dd-MM-yyyy'}} </td>
+  <td> {{c.DesignationName}} </td>
+  <td> {{c.BandName}} </td>
+</tr>
+</table>
+</div>
