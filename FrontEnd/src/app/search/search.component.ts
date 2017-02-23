@@ -42,9 +42,11 @@ export class SearchComponent implements OnInit {
     }
     );
     switch (val) {
+      case '1':
+        this.type="number";
+        break;
       case '3':
         this.type = "date";
-
         break;
       case '4':
         this.designationFlag = true;
